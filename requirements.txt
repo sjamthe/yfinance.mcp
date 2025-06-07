@@ -1,6 +1,5 @@
-yfinance>=0.2.18
-mcp>=0.8.0
-fastapi==0.104.1
-uvicorn==0.24.0
-pydantic==2.5.0
-python-multipart==0.0.6
+yfinance>=0.2.61
+fastapi==2.7.0
+fastmcp>=2.7.0
+pandas>=2.3.0
+uvicorn>=0.34.3
