@@ -4,13 +4,6 @@ This MCP server provides access to Yahoo Finance data through the `yfinance.down
 
 ## Requirements
 
-Create a `requirements.txt` file:
-
-```
-yfinance>=0.2.18
-mcp>=0.8.0
-```
-
 ## Installation
 
 1. Create a virtual environment:
@@ -29,7 +22,7 @@ pip install -r requirements.txt
 ### Running the Server
 
 ```bash
-python yfinance_mcp_server.py
+python remote_yfinance_mcp.py
 ```
 
 ### Tool: `download_stock_data`
