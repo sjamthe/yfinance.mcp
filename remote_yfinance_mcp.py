@@ -118,4 +118,5 @@ def download_stock_data(
 
 if __name__ == "__main__":
     # Run as HTTP server with SSE transport
-    mcp.run(transport="sse", host="0.0.0.0", port=8000)
+    #mcp.run(transport="sse", host="0.0.0.0", port=8000)
+    mcp.run(transport="sse", host="0.0.0.0")
