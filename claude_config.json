@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "yfinance": {
+      "command": "/Users/sjamthe/Documents/GithubRepos/yfinance.mcp/venv/bin/python",
+      "args": ["/Users/sjamthe/Documents/GithubRepos/yfinance.mcp/yfinance_mcp_server.py"],
+      "env": {
+        "PYTHONPATH": "/Users/sjamthe/Documents/GithubRepos/yfinance.mcp"
+      }
+    }
+  }
+}
